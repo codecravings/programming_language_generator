@@ -212,14 +212,6 @@ super-lang-creator/
 
 ---
 
-## 📊 Statistics
-
-- **🎓 10,000+ Users Worldwide**
-- **🏫 500+ Schools Using It**
-- **🌍 Available in 15+ Languages**
-- **⭐ 4.9/5 User Rating**
-- **🏆 Winner of Education Innovation Award**
-
 ---
 
 ## 🤝 Contributing
@@ -290,17 +282,6 @@ Unlock achievements as you use the tool!
 
 ---
 
-## 📱 Social Media
-
-Stay connected with our community:
-
-- **🐦 Twitter**: [@SuperLangCreate](https://twitter.com/SuperLangCreate)
-- **📘 Facebook**: [SuperLanguageCreator](https://facebook.com/SuperLanguageCreator)
-- **💬 Discord**: [discord.gg/superlang](https://discord.gg/superlang)
-- **📺 YouTube**: [SuperLang Tutorials](https://youtube.com/SuperLangTutorials)
-- **📸 Instagram**: [@superlangcreator](https://instagram.com/superlangcreator)
-
----
 
 ## 📄 License
 
@@ -315,30 +296,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
-
-Special thanks to:
-- **🧒 Kids** who inspired us to make programming fun
-- **👩‍🏫 Teachers** who believed in our vision
-- **👨‍💻 Developers** who contributed code
-- **🌍 Community** who provided feedback
-- **🎨 Designers** who made it beautiful
-
----
-
-## 🚀 Get Started Today!
-
-Ready to create your own programming language? 
-
-**[⬇️ Download SUPER Language Creator](https://github.com/yourusername/super-lang-creator/releases)**
-
-*Join thousands of creators who are already building the future of programming languages!*
-
----
-
 <div align="center">
 
-**Made with ❤️ by the SUPER Language Creator Team**
+**Made with ❤️ by Om Gholwe**
 
 *Empowering the next generation of programmers, one language at a time.*
 
