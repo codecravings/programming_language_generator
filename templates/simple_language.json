@@ -1,0 +1,30 @@
+{
+  "name": "SimpleLang",
+  "version": "1.0",
+  "author": "Template Author",
+  "description": "A simple programming language template",
+  "keywords": {
+    "variable": "var",
+    "function": "func",
+    "if": "if",
+    "else": "else",
+    "loop": "while",
+    "return": "return",
+    "true": "true",
+    "false": "false",
+    "null": "null"
+  },
+  "builtins": {
+    "print": "print",
+    "input": "input",
+    "length": "len",
+    "string": "str",
+    "number": "num",
+    "random": "rand"
+  },
+  "errors": {
+    "syntax": "Syntax error",
+    "runtime": "Runtime error",
+    "type": "Type error"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "KidsLang",
+  "version": "1.0",
+  "author": "Template Author",
+  "description": "A kid-friendly programming language",
+  "keywords": {
+    "variable": "remember",
+    "function": "teach",
+    "if": "when",
+    "else": "otherwise",
+    "loop": "repeat",
+    "return": "give",
+    "true": "yes",
+    "false": "no",
+    "null": "nothing"
+  },
+  "builtins": {
+    "print": "say",
+    "input": "ask",
+    "length": "count",
+    "string": "words",
+    "number": "number",
+    "random": "surprise"
+  },
+  "errors": {
+    "syntax": "Oops! Something is wrong with your code",
+    "runtime": "Something went wrong while running",
+    "type": "Wrong type of information"
+  }
+}
