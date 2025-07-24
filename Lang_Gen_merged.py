@@ -20,7 +20,7 @@ try:
     from PIL import Image, ImageTk, ImageDraw
     HAS_PIL = True
 except ImportError:
-    HAS_PIL = False
+    HAS_PIL = True
 
 try:
     import pygame
