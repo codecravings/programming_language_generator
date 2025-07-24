@@ -37,7 +37,7 @@ class EnhancedThemeEngine:
             'name': 'Modern Light',
             'bg': '#ffffff',
             'fg': '#1a202c',
-            'primary': '#667eea',
+            
             'secondary': '#764ba2',
             'accent': '#f093fb',
             'danger': '#ff6b6b',
